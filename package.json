@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "supboard",
   "version": "1.0.0",
-  "description": "",
-  "repository": "",
+  "description": "Short message app",
+  "repository": "https://github.com/garyditsch/supboard",
   "scripts": {
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1",
