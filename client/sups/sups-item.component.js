@@ -5,8 +5,10 @@ const supsItemComponent = {
     template,
     bindings: {
         sup: '<',
+        delete: '&',
+        update: '&',
     },
-    controller: SupsItemController, 
+    controller: SupsItemController,
     controllerAs: 'supsItemCtrl',
 };
 

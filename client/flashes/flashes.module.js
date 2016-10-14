@@ -1,4 +1,5 @@
 import angular from 'angular';
+import 'angular-animate';
 import flashesComponent from './flashes.component';
 import flashesService from './flashes.service';
 
